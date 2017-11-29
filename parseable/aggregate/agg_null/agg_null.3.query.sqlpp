@@ -1,0 +1,3 @@
+{'count':coll_count([null]),
+
+"average1":coll_avg([null]),"sum1":coll_sum([null]),'min1':coll_min([null]),'max1':coll_max([null]),'count2':coll_count({{null,null}}),'average2':coll_avg({{null,null}}),'sum2':coll_sum({{null,null}}),'min2':coll_min({{null,null}}),'max2':coll_max({{null,null}})};
